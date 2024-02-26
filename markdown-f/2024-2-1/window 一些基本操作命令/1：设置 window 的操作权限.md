@@ -1,0 +1,1 @@
+ cmd admin然后compmgmt.msc   加入管理员组
