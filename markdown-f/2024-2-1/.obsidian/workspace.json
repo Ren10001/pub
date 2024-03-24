@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git hub 的使用过程说明/6.分支操作.md",
+                "file": "git hub 的使用过程说明/7.git的几十个基本面.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git hub 的使用过程说明/6.分支操作.md",
+                "file": "git hub 的使用过程说明/7.git的几十个基本面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git hub 的使用过程说明/6.分支操作.md",
+                "file": "git hub 的使用过程说明/7.git的几十个基本面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git hub 的使用过程说明/6.分支操作.md"
+                "file": "git hub 的使用过程说明/7.git的几十个基本面.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "6192f0800ccf0ebd",
   "lastOpenFiles": [
+    "git hub 的使用过程说明/6.分支操作.md",
     "git hub 的使用过程说明/5.git查看各个branch之间的关系图.md",
     "git hub 的使用过程说明/1.github 的操作流程.md",
     "git hub 的使用过程说明/3.远程仓库.md",
@@ -185,7 +186,6 @@
     "create a link.md",
     "git hub 的使用过程说明/git添加多个远程仓库的几种方式.md",
     "git hub 的使用过程说明/7.git的几十个基本面.md",
-    "git hub 的使用过程说明/6.分支操作.md",
     "git hub 的使用过程说明/4. Git配置.md",
     "autocad2007/2024-2-1.md",
     "2024-02-05.md",
