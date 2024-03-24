@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git hub 的使用过程说明/git添加多个远程仓库的几种方式.md",
+                "file": "window 一些基本操作命令/2. 局域网络操作.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6192f0800ccf0ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git hub 的使用过程说明/1.github 的操作流程.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#局域网网内ping不通的故障解决方法总结",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git hub 的使用过程说明/git添加多个远程仓库的几种方式.md",
+                "file": "git hub 的使用过程说明/1.github 的操作流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git hub 的使用过程说明/git添加多个远程仓库的几种方式.md",
+                "file": "git hub 的使用过程说明/1.github 的操作流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git hub 的使用过程说明/git添加多个远程仓库的几种方式.md"
+                "file": "git hub 的使用过程说明/1.github 的操作流程.md"
               }
             }
           }
@@ -147,39 +160,44 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7600dcf1ca2be5ea",
+  "active": "6192f0800ccf0ebd",
   "lastOpenFiles": [
-    "git hub 的使用过程说明/7.git的几十个基本面.md",
+    "git hub 的使用过程说明/2.查看当地仓库.md",
+    "git hub 的使用过程说明/3.远程仓库.md",
+    "window 一些基本操作命令/4.添加持久路由方法.md",
+    "window 一些基本操作命令/2. 局域网络操作.md",
+    "window 一些基本操作命令/3.网络的基本感念.md",
+    "window 一些基本操作命令/1.设置 window 的操作权限.md",
+    "喷涂抹灰VS2019 安装说明/1.setup.md",
+    "Pasted image 20240315235454.png",
+    "Pasted image 20240315235416.png",
+    "Pasted image 20240315235350.png",
+    "Pasted image 20240315235304.png",
+    "Pasted image 20240315235232.png",
+    "Pasted image 20240315235157.png",
+    "Pasted image 20240315235108.png",
+    "Pasted image 20240315235008.png",
+    "Pasted image 20240215105856.png",
+    "喷涂抹灰VS2019 安装说明",
+    "Pasted image 20240215105419.png",
+    "create a link.md",
     "git hub 的使用过程说明/git添加多个远程仓库的几种方式.md",
+    "git hub 的使用过程说明/7.git的几十个基本面.md",
     "git hub 的使用过程说明/6.分支操作.md",
     "git hub 的使用过程说明/5.git查看各个branch之间的关系图.md",
     "git hub 的使用过程说明/4. Git配置.md",
-    "git hub 的使用过程说明/3.远程仓库.md",
-    "git hub 的使用过程说明/2.查看当地仓库.md",
     "git hub 的使用过程说明/1.github 的操作流程.md",
-    "Pasted image 20240215104453.png",
     "autocad2007/2024-2-1.md",
     "2024-02-05.md",
-    "create a link.md",
     "Welcome.md",
     "算法/未命名.canvas",
     "算法",
     "机器人/123.md",
     "机器人/1.关于软件的说明.md",
     "机器人",
-    "window 一些基本操作命令/1：设置 window 的操作权限.md",
     "window 一些基本操作命令",
     "git hub 的使用过程说明",
     "autocad2007",
-    "Pasted image 20240215111220.png",
-    "Pasted image 20240215111140.png",
-    "Pasted image 20240215110932.png",
-    "Pasted image 20240215110549.png",
-    "Pasted image 20240215110443.png",
-    "Pasted image 20240215110337.png",
-    "Pasted image 20240215110235.png",
-    "Pasted image 20240215105856.png",
-    "Pasted image 20240215105419.png",
     "未命名.md",
     "git hub 的使用过程说明/4..md",
     "未命名.canvas",
